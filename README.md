@@ -4,6 +4,13 @@
 
 Este repositorio contiene un clon del popular servicio de música Spotify construido utilizando Astro, un moderno generador de sitios front-end que ofrece rendimiento increíblemente rápido. Es una herramienta educativa diseñada para aquellos interesados en aprender cómo se construyen aplicaciones web modernas utilizando Astro.
 
+## Imágenes del Proyecto
+Aquí hay algunas capturas de pantalla que muestran el proyecto en acción.
+
+![image](https://github.com/TathataHY/spotify-clone/assets/86846618/1a46cb56-b6f3-437d-8569-81c058efbd55)
+
+![image](https://github.com/TathataHY/spotify-clone/assets/86846618/5329b58d-0ec6-4e5b-9107-fa53ec41a7a4)
+
 ## Características
 
 - Interfaz de usuario similar a Spotify.
